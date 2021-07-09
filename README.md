@@ -1,6 +1,13 @@
 # Movie-App
  imdb type website
- npm start
+# Home Page
+
+![Screenshot (171)](https://user-images.githubusercontent.com/73573652/125121856-2cab0b00-e112-11eb-8562-14b97690a2f0.png)
+
+
+
+
+npm start
 Runs the app in the development mode.
 Open http://localhost:3000 to view it in the browser.
 
